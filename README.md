@@ -8,8 +8,7 @@ Mathematics undergraduate at the University of Lagos, building toward ML Enginee
 
 ## About me
 
-- 🎓 Third-year Mathematics student at UniLag (graduating August 2027)
-- 🎯 Aiming for a funded Master's abroad in Data Science / Computer Science (ML specialization)
+- 🎓 Final-year Mathematics student at UniLag (graduating August 2027)
 - 🛠️ Currently strengthening my Python, SQL and machine learning foundations
 - 🇫🇷 Learning French alongside my degree
 
